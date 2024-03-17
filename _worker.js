@@ -25,7 +25,7 @@ let addressescsv = [
 ];
 
 let subconverter = "https://zhuan-huan.853977546.workers.dev/"; //在线订阅转换后端，目前使用肥羊的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
-let subconfig = "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_Full_MultiMode.ini"; //订阅配置文件
+let subconfig = "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_Full_MultiMode.ini"; //订阅配置文件可在这获取//https://github.com/Riley258/ACL4SSR
 
 let link = '';
 let edgetunnel = 'ed';
