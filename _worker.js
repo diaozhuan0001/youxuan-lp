@@ -11,7 +11,7 @@ let addresses = [
 // 设置优选地址api接口
 let addressesapi = [
 	//'https://zaixian-ip-youxuan.pages.dev/%E4%BC%98%E9%80%89lp.txt?token=6077',
-	'https://raw.githubusercontent.com/Riley258/danjiedian-lp/main/zi-ding-yi-lp.txt',//可参考内容格式 自行搭建在线lp更新。
+	'https://raw.githubusercontent.com/diaozhuan0001/d-jd-IP/main/IP.txt',//可参考内容格式 自行搭建在线lp更新。
 ];
 
 let DLS = 4;//速度下限
