@@ -5,9 +5,10 @@ let mytoken= 'auto';//快速订阅访问入口, 留空则不启动快速订阅
 
 // 设置优选地址，不带端口号默认443，不支持非TLS订阅生成
 let addresses = [
-    'icook.tw:2053#美国',
-    icook.tw:443#美国官方优选
-    icook.tw:443-//感叹号不稳定！
+    'sp.rweek.top:2083#美国官方优选3',
+    'icook.tw:8443#美国官方优选2',
+    'icook.tw:443#美国官方优选1',
+    'icook.tw:443#此节点以下lp不跳国-
 ];
 
 // 设置优选地址api接口
