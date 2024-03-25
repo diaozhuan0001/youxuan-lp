@@ -5,7 +5,8 @@ let mytoken= 'auto';//快速订阅访问入口, 留空则不启动快速订阅
 
 // 设置优选地址，不带端口号默认443，不支持非TLS订阅生成
 let addresses = [
-	'bv.cloudflarest.link:8443#高速接口',
+	'a0.nttkk.com:8443#高速接口2',
+	'bv.cloudflarest.link:8443#高速接口1',
 	'cf.090227.xyz:2087#美国官方优选5',
 	'sp.rweek.top:2087#美国官方优选4',
 	'sp.rweek.top:2083#美国官方优选3',
