@@ -34,10 +34,15 @@ let link = '';
 let edgetunnel = 'ed';
 let RproxyIP = 'false';
 let proxyIPs = [
+	'workers.cloudflare.cyou',
+	'my-telegram-is-herocore.onecf.eu.org',
+	'proxyip.us.fxxk.dedyn.io',
+	'proxyip.sg.fxxk.dedyn.io',
+	'proxyip.jp.fxxk.dedyn.io',
 	'proxyip.aliyun.fxxk.dedyn.io',
 	'proxyip.multacom.fxxk.dedyn.io',
 	'proxyip.vultr.fxxk.dedyn.io',
-	'cf.853977546.xyz',
+	'proxyip.hk.fxxk.dedyn.io',
 ];
 let CMproxyIPs = [
 	{ proxyIP: "proxyip.fxxk.dedyn.io", type: "HK" },
