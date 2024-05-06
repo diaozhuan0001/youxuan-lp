@@ -5,7 +5,7 @@ let mytoken= 'auto';//快速订阅访问入口, 留空则不启动快速订阅
 
 // 设置优选地址，不带端口号默认443，不支持非TLS订阅生成
 let addresses = [
-	'aliyun.classelivre.eu.org #cf优选IP',
+	'aliyun.classelivre.eu.org#cf优选IP',
         'cf.853977546.xyz:2052#cf优选IP',
 	'a0.nttkk.com:8443#高速接口2',
 	'bv.cloudflarest.link:8443#高速接口1',
